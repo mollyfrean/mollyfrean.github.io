@@ -12,9 +12,6 @@ author_profile: true
 <br><br>
 Sinaiko, A.D., <b>Frean, M.</b>, Kingsdale, J., & Galbraith, A. "Why do consumers fail to take-up subsidies when eligible? Evidence from two ACA state-based marketplaces" (in progress)
 
-
-<b>Stuart V Craig</b>, Matthew Grennan, and Ashley Swanson. “<a href="http://www.nber.org/papers/w24926">Mergers and Hospital Costs: New Evidence from Hospital Input Markets</a>,” NBER Working Paper 24926, August 2018. Ungated version available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232902">SSRN</a>. (under review)
-
 <H2>Publications</H2>
 <b>Frean, M.</b>, Gruber, J., & Sommers, B. D. (2017). Premium subsidies, the mandate, and Medicaid expansion: Coverage effects of the Affordable Care Act. Journal of Health Economics, 53, 72-86.
 <br><br>
