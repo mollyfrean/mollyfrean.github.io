@@ -8,7 +8,7 @@ author_profile: true
 {% seo %}
 
 <H2>Working Papers and Works in Progress</H2>
-<b>Frean, M.</b>, & Pauly, M.V. "<a href="https://www.nber.org/papers/w25156">Does high cost-sharing slow the long-term growth rate of health spending? Evidence from the states</a>a>," NBER Working Paper No. 25156, October 2018.
+<b>Frean, M.</b>, & Pauly, M.V. "<a href="https://www.nber.org/papers/w25156">Does high cost-sharing slow the long-term growth rate of health spending? Evidence from the states</a>," NBER Working Paper No. 25156, October 2018.
 <br><br>
 Sinaiko, A.D., <b>Frean, M.</b>, Kingsdale, J., & Galbraith, A. "Why do consumers fail to take-up subsidies when eligible? Evidence from two ACA state-based marketplaces" (in progress)
 
