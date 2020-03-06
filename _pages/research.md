@@ -12,7 +12,7 @@ author_profile: true
 <br><br>
 Fang, H., <b>Frean, M.</b>, & Ukert, B. "Characterizing Enrollee Turnover and Relations to Benefit Design"
 <br><br>
-<b>Frean, M.</b>, & Pauly, M.V."Competition Between Community-Rated and Risk-Rated but Guaranteed-Renewable Individual Insurance"
+<b>Frean, M.</b>, & Pauly, M.V. "Competition Between Community-Rated and Risk-Rated but Guaranteed-Renewable Individual Insurance"
 <br><br>
 <b>Frean, M.</b>, Covington, C., Tietschert, M., Bahadurzada, H., & Singer, S. "Integrated Care in Medicare: Patients Perceive Few Differences Among Medicare Advantage, ACOs and Fee-For-Service" (under review)
 <br><br>
