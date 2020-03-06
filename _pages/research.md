@@ -10,7 +10,7 @@ author_profile: true
 <H2>Working Papers and Works in Progress</H2>
 <b>Frean, M.</b>, & Pauly, M.V. "<a href="https://www.nber.org/papers/w25156">Does high cost-sharing slow the long-term growth rate of health spending? Evidence from the states</a>," NBER Working Paper No. 25156, September 2019.
 <br><br>
-Fang, H., <b>Frean, M.<\b>, & Ukert, B. "Characterizing Enrollee Turnover and Relations to Benefit Design"
+Fang, H., <b>Frean, M.</b>, & Ukert, B. "Characterizing Enrollee Turnover and Relations to Benefit Design"
 <br><br>
 <b>Frean, M.</b>, & Pauly, M.V."Competition Between Community-Rated and Risk-Rated but Guaranteed-Renewable Individual Insurance"
 <br><br>
