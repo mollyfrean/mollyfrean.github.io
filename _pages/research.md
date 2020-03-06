@@ -8,9 +8,15 @@ author_profile: true
 {% seo %}
 
 <H2>Working Papers and Works in Progress</H2>
-<b>Frean, M.</b>, & Pauly, M.V. "<a href="https://www.nber.org/papers/w25156">Does high cost-sharing slow the long-term growth rate of health spending? Evidence from the states</a>," NBER Working Paper No. 25156, October 2018.
+<b>Frean, M.</b>, & Pauly, M.V. "<a href="https://www.nber.org/papers/w25156">Does high cost-sharing slow the long-term growth rate of health spending? Evidence from the states</a>," NBER Working Paper No. 25156, September 2019.
 <br><br>
-Sinaiko, A.D., <b>Frean, M.</b>, Kingsdale, J., & Galbraith, A. "Why do consumers fail to take-up subsidies when eligible? Evidence from two ACA state-based marketplaces" (in progress)
+Fang, H., <b>Frean, M.<\b>, & Ukert, B. "Characterizing Enrollee Turnover and Relations to Benefit Design"
+<br><br>
+<b>Frean, M.</b>, & Pauly, M.V."Competition Between Community-Rated and Risk-Rated but Guaranteed-Renewable Individual Insurance"
+<br><br>
+<b>Frean, M.</b>, Covington, C., Tietschert, M., Bahadurzada, H., & Singer, S. "Integrated Care in Medicare: Patients Perceive Few Differences Among Medicare Advantage, ACOs and Fee-For-Service" (under review)
+<br><br>
+Crawford, G., <b>Frean, M.</b>, Gordon, A., Hua, L., Lucarelli, C., & Pauly, M.V. ``Effect of High Deductibles on Spending Growth and Technology Adoption"
 
 <H2>Publications</H2>
 <b>Frean, M.</b>, Gruber, J., & Sommers, B. D. (2017). <a href="https://www.sciencedirect.com/science/article/pii/S0167629616302272">Premium subsidies, the mandate, and Medicaid expansion: Coverage effects of the Affordable Care Act</a>. <i>Journal of Health Economics</i>, 53, 72-86.
