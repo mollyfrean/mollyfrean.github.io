@@ -8,21 +8,21 @@ author_profile: true
 {% seo %}
 
 <H2>Work In Progress and Under Review</H2>
-Frean, M. Understanding manufacturer-sponsored copay assistance programs for pharmaceuticals. <i>Job Market Paper.</i>
+<b>Frean, M.</b>. Understanding manufacturer-sponsored copay assistance programs for pharmaceuticals. <i>Job Market Paper.</i>
 
-Ling, E., ..., Frean, M., ... & Singer, S. J. Differences in patient perceptions of
+Ling, E., ..., <b>Frean, M.</b>, ... & Singer, S. J. Differences in patient perceptions of
 integrated care among Black, Hispanic, and White Medicare beneficiaries. <i>Health
 Services Research (Under Review).</i>
 <br><br>
 <b>Frean, M.</b>, & Pauly, M.V. "<a href="https://www.nber.org/papers/w25156">Does high cost-sharing slow the long-term growth rate of health spending? Evidence from the states</a>". <i>NBER Working Paper No. 25156.</i>
 <br><br>
 Fang, H., <b>Frean, M.</b>, & Ukert, B. "Enrollee turnover and implications for benefit
-design in private insurance"
+design in private insurance."
 <br><br>
 Lucarelli, C., <b>Frean, M.</b>, Gordon, A., Hua, L., & Pauly, M.V. "What does a deductible do to spending growth?"
 
 <H2>Publications</H2>
-<b>Frean, M.</b>, ..., & Singer, S. (2020) "Patient experiences of integrated care in Medicare Accountable Care Organizations and Medicare Advantage versus Traditional Fee-For-Service". <i>Medical Care (forthcoming)</i>.
+<b>Frean, M.</b>, ..., & Singer, S. J. (2020). "Patient experiences of integrated care in Medicare Accountable Care Organizations and Medicare Advantage versus Traditional Fee-For-Service". <i>Medical Care (forthcoming)</i>.
 <br><br>
 <b>Frean, M.</b>, Gruber, J., & Sommers, B. D. (2017). <a href="https://www.sciencedirect.com/science/article/pii/S0167629616302272">Premium subsidies, the mandate, and Medicaid expansion: Coverage effects of the Affordable Care Act</a>. <i>Journal of Health Economics</i>, 53, 72-86.
 <br><br>
