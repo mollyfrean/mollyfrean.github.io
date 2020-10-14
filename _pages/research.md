@@ -7,18 +7,23 @@ author_profile: true
 {% include base_path %}
 {% seo %}
 
-<H2>Working Papers and Works in Progress</H2>
-<b>Frean, M.</b>, & Pauly, M.V. "<a href="https://www.nber.org/papers/w25156">Does high cost-sharing slow the long-term growth rate of health spending? Evidence from the states</a>," NBER Working Paper No. 25156, September 2019.
+<H2>Work In Progress and Under Review</H2>
+Frean, M. Understanding manufacturer-sponsored copay assistance programs for pharmaceuticals. <i>Job Market Paper.</i>
+
+Ling, E., ..., Frean, M., ... & Singer, S. J. Differences in patient perceptions of
+integrated care among Black, Hispanic, and White Medicare beneficiaries. <i>Health
+Services Research (Under Review).</i>
 <br><br>
-Fang, H., <b>Frean, M.</b>, & Ukert, B. "Characterizing Enrollee Turnover and Relations to Benefit Design"
+<b>Frean, M.</b>, & Pauly, M.V. "<a href="https://www.nber.org/papers/w25156">Does high cost-sharing slow the long-term growth rate of health spending? Evidence from the states</a>". <i>NBER Working Paper No. 25156.</i>
 <br><br>
-<b>Frean, M.</b>, & Pauly, M.V. "Competition Between Community-Rated and Risk-Rated but Guaranteed-Renewable Individual Insurance"
+Fang, H., <b>Frean, M.</b>, & Ukert, B. "Enrollee turnover and implications for benefit
+design in private insurance"
 <br><br>
-<b>Frean, M.</b>, Covington, C., Tietschert, M., Bahadurzada, H., & Singer, S. "Integrated Care in Medicare: Patients Perceive Few Differences Among Medicare Advantage, ACOs and Fee-For-Service" (under review)
-<br><br>
-Crawford, G., <b>Frean, M.</b>, Gordon, A., Hua, L., Lucarelli, C., & Pauly, M.V. ``Effect of High Deductibles on Spending Growth and Technology Adoption"
+Lucarelli, C., <b>Frean, M.</b>, Gordon, A., Hua, L., & Pauly, M.V. "What does a deductible do to spending growth?"
 
 <H2>Publications</H2>
+<b>Frean, M.</b>, ..., & Singer, S. (2020) "Patient experiences of integrated care in Medicare Accountable Care Organizations and Medicare Advantage versus Traditional Fee-For-Service". <i>Medical Care (forthcoming)</i>.
+<br><br>
 <b>Frean, M.</b>, Gruber, J., & Sommers, B. D. (2017). <a href="https://www.sciencedirect.com/science/article/pii/S0167629616302272">Premium subsidies, the mandate, and Medicaid expansion: Coverage effects of the Affordable Care Act</a>. <i>Journal of Health Economics</i>, 53, 72-86.
 <br><br>
 Kerrissey, M. J., ..., <b>Frean, M.</b>, ... & Singer, S. J. (2017). <a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2016.0909">Medical group structural integration may not ensure that care is integrated from the patient's perspective</a>. <i>Health Affairs</i>, 36(5), 885-892.
