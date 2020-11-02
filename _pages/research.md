@@ -19,15 +19,14 @@ Kerrissey, M. J., ..., <b>Frean, M.</b>, ... & Singer, S. J. (2017). <a href="ht
 <b>Frean, M.</b>, Shelder, S., Rosenthal, M. B., Sequist, T. D., & Sommers, B. D. (2016). <a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2521825">Health reform and coverage changes among Native Americans</a>. <i>JAMA Internal Medicine</i>, 176(6), 858-860.
 
 <H2>Work In Progress and Under Review</H2>
-<b>Frean, M.</b>. Understanding manufacturer-sponsored copay assistance programs. <i>Job Market Paper.</i>
+<b>Frean, M.</b>. Understanding manufacturer-sponsored copay assistance programs for pharmaceuticals. <i>Job Market Paper.</i>
 <br><br>
 <b>Frean, M.</b>, & Pauly, M.V. "<a href="https://www.nber.org/papers/w25156">Does high cost-sharing slow the long-term growth rate of health spending? Evidence from the states</a>". <i>NBER Working Paper No. 25156.</i>
 <br><br>
+Kerrissey, M. J., <b>Frean, M.</b>, Traboulsi, A. A., & Singer, S. J. Medicare beneficiaries who perceive their care to be more integrated incur higher expenditures on average. <i>Under Review.</i>
+<br><br>
 Fang, H., <b>Frean, M.</b>, & Ukert, B. "Enrollee turnover and implications for health insurance benefit design."
 <br><br>
+<b>Frean, M.</b>, & Pauly, M.V. "Competition between community-rated and risk-rated but guaranteed renewable insurance."
+<br><br>
 Lucarelli, C., <b>Frean, M.</b>, Gordon, A., Hua, L., & Pauly, M.V. "What does a deductible do to health care spending growth?"
-<br><br>
-Ling, E., ..., <b>Frean, M.</b>, ... & Singer, S. J. Differences in patient perceptions of
-integrated care among Black, Hispanic, and White Medicare beneficiaries. <i>Under Review.</i>
-<br><br>
-Kerrissey, M. J., <b>Frean, M.</b>, Traboulsi, A. A., & Singer, S. J. Medicare beneficiaries who perceive their care to be more integrated incur higher expenditures on average. <i>Under Review.</i>
