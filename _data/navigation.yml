@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+  #  url: /research/
     
-  - title: "CV"
-    url: https://mollyfrean.github.io/files/MFrean_CV_Nov2020.pdf
+  #- title: "CV"
+  #  url: https://mollyfrean.github.io/files/MFrean_CV_Nov2020.pdf

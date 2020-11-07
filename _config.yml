@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Molly Frean"
-  avatar           : "profile_cropped.jpg"
-  bio              : "PhD Candidate at Wharton Associate Fellow at LDI"
+  avatar           : # "profile_cropped.jpg"
+  bio              : # "PhD Candidate at Wharton Associate Fellow at LDI"
   location         : # "Boston, MA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=sDQsvXsAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=sDQsvXsAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "mollyfrean"
+  linkedin         : # "mollyfrean"
   orcid            : # https://orcid.org/0000-0002-5770-4266
   pinterest        :
   soundcloud       :
