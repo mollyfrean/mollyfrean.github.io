@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Molly Frean"
-  avatar           : # "profile_cropped.jpg"
+  name             : # "Molly Frean"
+  #avatar           : # "profile_cropped.jpg"
   bio              : # "PhD Candidate at Wharton Associate Fellow at LDI"
   location         : # "Boston, MA"
   employer         :
