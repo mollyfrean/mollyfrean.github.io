@@ -10,4 +10,4 @@ redirect_from:
 
 {% seo %}
 
-This site has been moved to <a href="https://www.mollyfrean.com">www.mollyfrean.com</a>.
+This site has been moved to <a href="http://www.mollyfrean.com">www.mollyfrean.com</a>.
