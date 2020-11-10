@@ -3,8 +3,11 @@ main:
   #- title: "Research"
   #  url: /research/
     
-  #- title: "CV"
-  #  url: https://mollyfrean.github.io/files/MFrean_CV_Nov2020_na.pdf
+  - title: "CV1"
+    url: https://mollyfrean.github.io/files/MFrean_CV_Nov2020.pdf
+
+  - title: "CV2"
+    url: https://mollyfrean.github.io/files/MFrean_CV_Nov2020_Alt.pdf  
 
   #- title: "JMP"
   #  url: https://mollyfrean.github.io/files/MFrean_JMP_Latest.pdf
